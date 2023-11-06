@@ -1,0 +1,10 @@
+.child{
+    background-color:rgb(158, 227, 133);
+    width: 400px;
+    margin:4px auto;
+    padding:10px;
+    border: 1px solid rgb(70, 88, 64);
+    border-radius: 4px;
+    box-shadow:8px rgb(210, 217, 208); ;
+    }
+    

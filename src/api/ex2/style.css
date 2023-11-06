@@ -1,0 +1,28 @@
+.divParent{
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 500px;
+    margin-left: 25%;
+    background-color: rgb(198, 245, 198);
+    border-radius: 10px;
+}
+.posts{
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 470px;
+    background-color:rgb(214, 243, 214) ;
+    border-radius: 10px;
+
+}
+h1{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
